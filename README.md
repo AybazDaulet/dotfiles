@@ -8,8 +8,6 @@ The top-level files represent your $HOME directory, and the .config directory re
 - tmux as my terminal multiplexer because it gets the job done and is reliable. 
 - Neovim since I'm too lazy to learn Emacs.
 
-NvChad is a base of my nvim config.
-
 ## Requirements
 
 - Hack Nerd Font
